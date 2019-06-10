@@ -138,6 +138,12 @@ disableLanguages        = [""]
     identifier        = "far fa-envelope"
     weight            = 6
 
+  [[menu.main]]
+    name              = "Link"
+    url               = "/link/"
+    identifier        = "fas fa-link"
+    weight            = 7
+
 
 # Sets Social Media icons to appear and link to your account. Value should be your
 # username unless otherwise noted. These are the icons affected by socialAppearAtTop
