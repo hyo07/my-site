@@ -49,7 +49,7 @@ disableLanguages        = [""]
     # Sets the navbarTitle that appears in the top left of the navigation bar
     navbarTitle         = "左上のTOP"
     # Sets navbarTitle to match the section of the website
-    dynamicTitles       = true
+    dynamicTitles       = true  # メニューの今の状態を表示するか、常時TOP名にするか
     searchMenu          = true
     shareMenu           = true
     # languageMenu        = true
