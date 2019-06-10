@@ -1,4 +1,4 @@
-baseurl                 = "https://example.com/"
+baseurl                 = "https://hyo-tech.netlify.com"
 DefaultContentLanguage  = "en"
 title                   = "Hyo my site"
 theme                   = "hugo-future-imperfect-slim"
