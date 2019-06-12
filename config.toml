@@ -1,6 +1,6 @@
 baseurl                 = "https://hyo-tech.netlify.com"
 DefaultContentLanguage  = "en"
-title                   = "Hyo tech"
+title                   = "Yutaka Kato blog"
 theme                   = "hugo-future-imperfect-slim"
 preserveTaxonomyNames   = true
 paginate                = 3
