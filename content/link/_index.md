@@ -1,6 +1,20 @@
 +++
 title = "Link"
-date = "2014-04-09"
+date = "2019-06-12"
 +++
 
-ここリンクとか書こうかなとか思ってる
+随時更新していきます。  
+
+## SNSや、その他個人アカウント
+- [Github](https://github.com/hyo07)
+- [Twitter](https://twitter.com/hyo_07)
+- [Facebook](https://www.facebook.com/yutaka727)
+- [Qiita](https://qiita.com/hyo_07)
+- [Wantedly](https://www.wantedly.com/users/77358513)
+
+
+## 制作物
+- [にじったー](https://nijitter.com)
+- [研究室HP](https://fujihalab.netlify.com/)
+
+その他上記のgithubやQiitaなど

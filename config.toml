@@ -77,7 +77,12 @@ disableLanguages        = [""]
   [params.sidebar]
   # my-site/themes/hugo-future-imperfect-slim/layouts/partials/site-sidebar.html
   # で、無理やりサイドバーの順番を変える予定
-    about               = "サイドバーのabout"
+    about               = """
+                            名前：加藤 豊<br>
+                            webアプリ開発やら、ブロックチェーンの研究やらしてる、大学4年生です。<br>
+                            <br>
+                            アウトプットの練習兼、日記のような意味合いをこめて、こんな個人サイトを作ってみました。
+                          """
     # Sets the number of recent posts to show in the sidebar. The default value is 5.
     postAmount          = 5
     # set to show or to hide categories in the sidebar

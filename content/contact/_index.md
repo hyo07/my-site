@@ -1,12 +1,13 @@
 +++
 title = "Contact"
 type = "contact"
-netlify = false
-emailservice = "formspree.io/example@email.com"
-contactname = "Your name"
-contactemail = "Your Email"
-contactsubject = "Subject"
-contactmessage = "Your Message"
-contactlang = "en"
-contactanswertime = 24
 +++
+
+お問い合わせは下記googleフォーム、もしくは以下のSNSアカウントなどにお願いします。  
+
+- [Twitter](https://twitter.com/hyo_07)（DM常時解放しています）
+- [Facebook](https://www.facebook.com/yutaka727)
+- [Wantedly](https://www.wantedly.com/users/77358513)
+- メールアドレス: yutaka727kato@gmail.com
+
+<br><br>
