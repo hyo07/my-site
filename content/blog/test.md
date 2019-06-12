@@ -1,4 +1,4 @@
-+++
+<!-- +++
 author = "Theme author"
 categories = ["Test"]
 tags = ["Test"]
@@ -12,4 +12,4 @@ type = "post"
 
 +++
 
-# テスト
+# テスト -->

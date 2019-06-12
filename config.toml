@@ -81,7 +81,7 @@ disableLanguages        = [""]
                             名前：加藤 豊<br>
                             webアプリ開発やら、ブロックチェーンの研究やらしてる、大学4年生です。<br>
                             <br>
-                            アウトプットの練習兼、日記のような意味合いをこめて、こんな個人サイトを作ってみました。
+                            アウトプットの練習兼、日記のような意味合いをこめて、こんな個人サイトをHugoで作ってみました。
                           """
     # Sets the number of recent posts to show in the sidebar. The default value is 5.
     postAmount          = 5

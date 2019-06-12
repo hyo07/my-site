@@ -3,27 +3,83 @@ title = "About Me"
 date = "2019-06-12"
 +++
 
-Hugo is a static site engine written in Go.
+# このサイト is 何？
+偶々HugoでHPを作る機会があったから、その流れで作った個人サイト。  
+個人的な日記みたいなことや、技術的なことを書く場にしたいなというオキモチ。  
 
+以下、思った以上に長ったるくなったプロフィール
+<br><br>
 
-It makes use of a variety of open source projects including:
+# プロフィール
+現在、千葉工業大学 工学部　情報通信システム工学科 の学部4年生。  
+所属研究室は[藤原研究室](https://fujihalab.netlify.com/)で、大学院に進学する予定。
+<br><br>
 
-* [Cobra](https://github.com/spf13/cobra)
-* [Viper](https://github.com/spf13/viper)
-* [J Walter Weatherman](https://github.com/spf13/jWalterWeatherman)
-* [Cast](https://github.com/spf13/cast)
+### 研究
+　研究として扱っているのは、ブロックチェーン技術で、仮想通貨以外への利用。という考えを元に研究を行なってる（別に仮想通貨が嫌いとかではない）。  
+　また研究そのものではないが、研究室の友人と色々なものを作る試みをしており、先日研究室のHPをHugoで作成した。  
+最初はWordpressを用いようとしたが、友人からの~~パワハラ~~勧めを受けて、Hugoにチャレンジ。  
+研究の面々などで、ハッカソンなどに出る予定もあり。
+<br><br>
 
-Learn more and contribute on [GitHub](https://github.com/spf13).
+## やっていること
+　先に述べた研究とは別に、webアプリ開発なども取り組んでおり、2019年5月に初めてのwebサービスである[にじったー](https://nijitter.com)を公開。  
+他にも作りたいと考えているサービスがあり、鋭意製作中。
+<br><br>
 
-## Setup
+## これまで
+### 経歴
+- 2016-3 昭和学院高等学校卒業
+- 2016-4 千葉工業大学入学
+- 2020-3 千葉工業大学 卒業予定
+- 2020-4 千葉工業大学 大学院 入学予定
+<br><br>
 
-Some fun facts about [Hugo](http://gohugo.io/):
+<!-- ### プログラミングを始めたきっかけ
+　プログラミングを始めたのは2018年の春で、それまでは一切やりたいこと、仕事にしたいこともなく、淡々と毎日大学に行って、そこそこ良いぐらいの成績を取り敢えずとる。みたいな生活を送っていた。就職も、特に何も考えず公務員試験を受けるかーなどと適当なことを思っていた。  
+　その春に、あまりにも暇でやることがなく、偶々サークルの先輩から暇ならばとプログラミングを勧められ、Progateで少し触ったところ想像以上にハマり、そこから今まで知らなかった世界・考えを知るようになり、意識がガラりと変わった。   -->
 
-* Built in [Go](http://golang.org/)
-* Loosely inspired by [Jekyll](http://jekyllrb.com/)
-* Primarily developed by [spf13](http://spf13.com/) on the train while commuting to and from Manhattan.
-* Coded in [Vim](http://vim.org) using [spf13-vim](http://vim.spf13.com/)
+### プログラミングを始めたきっかけ
+　2018年春（大学3年）、あまりにも暇すぎてやることがなく、サークルの先輩に勧められてProgateで触ってみたら想像以上にはまって、そこから続けている。
+<br><br>
 
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/spf13/hugo/issues/new) or [ask me on Twitter](https://twitter.com/spf13).
+## その他これからやりたいこと
+- インターン
+- ブログ
+- Unity
 
-Thanks for reading!
+インターンはとくにやりたい！けどまあ中々うまくいかずな状態。~~**是非紹介とかして欲しい**~~  
+ブログは当たり前に投稿していきたい。ペースは未定。  
+UnityはVtuber好きだったら興味もっちゃうよねっていう。夏休みとかで触れればなあ。  
+<br><br>
+
+## 趣味、好きなこと
+TOPにある画像から見て分かるとおり、よくいるオタク（オタクになる前からオタクとか言われてた）。  
+取り敢えず好きなことは、
+
+- Vtuber
+- e-sports
+- ネット小説
+- アニメ、声優
+
+~~**羅列してて悲しくなった**~~  
+Vtuberは、にじさんじ・ホロライブ・個人勢（敬称略）とかよく見てる。  
+e-sportsは、主にLoLと格闘ゲーム。LoLは元大学のサークルの代表で、格ゲーもサークル立ち上げようと動いたけど、人が集まらなすぎて＆その時期忙しすぎて結局機能できなかった（その後復活してくれた嬉しい）。  
+上記二つは特に好きで、関連したwebサービスを作ったり、作りたかったり。  
+
+ネット小説は、なろうも読むけど二次創作小説のが多分多い。めちゃくちゃ読むえらい読む。
+<br><br>
+
+## 触ったことある技術など
+wantedlyのプロフに書いたことをそのまんま
+
+- Python: 簡単な機械学習を行ったり、flaskやDjangoを用いたwebアプリ開発など
+- Go: udemyで勉強をしたり、ginを使った超簡単なアプリを作ったりなど
+- Ruby: progateのrubyコースと、railsチュートリアルを1周した程度
+- javascrips: progate程度
+- HTML, CSS: 個人でのwebアプリ開発などで使用
+- heroku: 個人開発したアプリのデプロイに利用
+- GCP: 個人開発したアプリのデプロイに利用。使ったのはGAE, Cloud SQL, Cloud functions
+- github: 個人開発や、友人とのチーム開発で利用
+- slack: 研究室での連絡手段としてメインに利用
+- Hugo: 研究室のHPを作成するのに利用。
