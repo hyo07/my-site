@@ -49,9 +49,9 @@ disableLanguages        = [""]
 
   [params.header]
     # Sets the navbarTitle that appears in the top left of the navigation bar
-    navbarTitle         = "左上のTOP"
+    navbarTitle         = "Road to 動くデブ"
     # Sets navbarTitle to match the section of the website
-    dynamicTitles       = true  # メニューの今の状態を表示するか、常時TOP名にするか
+    dynamicTitles       = false  # メニューの今の状態を表示するか、常時TOP名にするか
     searchMenu          = true
     shareMenu           = true
     # languageMenu        = true
@@ -59,8 +59,8 @@ disableLanguages        = [""]
   # These are optional params related to the sidebar. They are recommended, but not
   # required for proper functionality. HTML is supported within the params.
   [params.intro]
-    header                = "サイト名っぽいところ"
-    paragraph             = "その下."
+    header                = "Road to 動くデブ"
+    paragraph             = "二重の意味で動けるようになりたい"
     # rssIntro              = true
     socialIntro           = true
 
