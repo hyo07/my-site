@@ -30,7 +30,7 @@ disableLanguages        = [""]
   # Options are twitter, facebook, reddit, linkedin, stumbleupon, pinterest, email
   # socialShare           = ["twitter", "facebook", "reddit", "linkedin",
   #                         "stumbleupon", "pinterest", "email"]
-  socialShare           = ["twitter", "facebook", "email"]
+  socialShare           = ["twitter"]
 
   [params.meta]
     # Sets the meta tag description

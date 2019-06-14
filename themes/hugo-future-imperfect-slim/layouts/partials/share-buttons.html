@@ -3,9 +3,13 @@
 {{ $author := $.Scratch.Get "Author" }}
 {{ range .Site.Params.socialShare }}
   {{ if eq . "twitter" }}
-    <a href="//twitter.com/share?url={{ $permalink }}&amp;text={{ $title }}&amp" target="_blank" rel="noopener" class="share-btn twitter">
+
+    <a href="https://twitter.com/share?ref_src=twsrc%5Etfw" class="twitter-share-button" data-show-count="false" data-url="{{ $permalink }}">
+      <!-- <i class="fab fa-twitter"></i><p>&nbsp;Twitter</p> -->
+    </a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+    <!-- <a href="//twitter.com/share?url={{ $permalink }}&amp;text={{ $title }}&amp" target="_blank" rel="noopener" class="share-btn twitter">
         <i class="fab fa-twitter"></i><p>&nbsp;Twitter</p>
-      </a>
+      </a> -->
   {{ else if eq . "facebook" }}
       <a href="//www.facebook.com/sharer/sharer.php?u={{ $permalink }}" target="_blank" rel="noopener" class="share-btn facebook">
         <i class="fab fa-facebook"></i><p>&nbsp;Facebook</p>

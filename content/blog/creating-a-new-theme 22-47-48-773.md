@@ -6,7 +6,7 @@ description = "Learn how to create a theme on Hugo"
 featured = "pic03.jpg"
 featuredalt = "Pic 3"
 featuredpath = "date"
-linktitle = ""
+linktitle = "hoge"
 title = "Creating a New Theme"
 type = "post"
 
