@@ -81,5 +81,6 @@ wantedlyのプロフに書いたことをそのまんま
 - heroku: 個人開発したアプリのデプロイに利用
 - GCP: 個人開発したアプリのデプロイに利用。使ったのはGAE, Cloud SQL, Cloud functions
 - github: 個人開発や、友人とのチーム開発で利用
+- Docker/Docker-compose: 研究で利用
 - slack: 研究室での連絡手段としてメインに利用
 - Hugo: 研究室のHPを作成するのに利用。
