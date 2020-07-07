@@ -14,7 +14,8 @@ date = "2019-06-12"
 
 
 ## 制作物
-- [にじったー](https://nijitter.com)
+- ~~[にじったー](#)~~
+- [GBVSレーダー](https://gbvs-radar.com/)
 - [研究室HP](https://fujihalab.netlify.com/)
 - [履歴書readme](https://github.com/hyo07/readme)
 
